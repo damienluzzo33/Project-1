@@ -17,13 +17,13 @@ To use the Application just go to the Website link below. The Application is Des
 ## ScreenShots
 ---
 #### Mobile With Sidebar Extended
-![Mobile View With Sidebar](https://i.imgur.com/6Ay0JTf.png)
+![Mobile View With Sidebar]()
 ---
 #### Mobile Layout
-![Mobile View Without Sidebar](https://i.imgur.com/ym25p1C.png)
+![Mobile View Without Sidebar]()
 ---
 #### Desktop layout
-![Desktop View](https://i.imgur.com/uSa8wZw.png)
+![Desktop View]()
 ---
 * See How-To documentation for Instructions
 ---
@@ -31,20 +31,19 @@ To use the Application just go to the Website link below. The Application is Des
 + DETAILS COMING SOON
 ---
 ## Frameworks Used
-### 1. <b>Code Editor</b>
+### 1. Code Editor
 + Visual Studio Code
-### 2. <b>Version Control</b>
+### 2. Version Control
 + gitCLI
 + github
-### 3. <b>CSS Component Library</b>
+### 3. CSS Component Library
 + materialize.js
-### 4. <b>Tools</b>
+### 4. Tools
 + google fonts
 + font awesome icons
-### 5. <b>API</b>
+### 5. API
 + Spoonacular
-+ Google Translate (coming soon)
-+ ---
+---
 ## Special Thanks
 + Leah (Instructor)
 + Christain (TA)
