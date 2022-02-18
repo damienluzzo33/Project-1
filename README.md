@@ -10,7 +10,7 @@ Dynamite Recipes is an application that helps you find recipes using ingredients
 ## Getting Started
 To use the Application just go to the Website link below. The Application is Desktop and mobile Friendly. Once on the Web Page you : Vincent said he will make arrow how to 
 
-[Access The Deployed Project Here!](https://damienluzzo33.github.io/Project-1/)
+[Access The Deployed Project Here!](https://damienluzzo33.github.io/dynamite-recipes/)
 #### Deployed Date: 10/08/2021 
 #### Contributors: Damien Luzzo, Christopher Kennard, Chamo, Vincent Sullivan, and Stephanie Cortez
 
